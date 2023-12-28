@@ -35,7 +35,7 @@ export default class AddItem extends Component{
                    value={this.state.label} />
             <button
               className="btn btn-outline-secondary">
-              Add Item
+              Add
             </button>
           </form>
         );
